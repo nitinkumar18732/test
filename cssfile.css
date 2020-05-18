@@ -1,0 +1,115 @@
+body
+{
+	background-color: darkblue;
+}
+.c1
+{
+	margin: 2px; 
+	border:thin;
+	border-color: red;
+	background-color: whitesmoke;
+}
+.c1 h1
+{
+	text-align: center;
+	color: black;
+}
+.c1 p
+{
+	padding: 3px;
+	text-align: center;
+	color: cornflowerblue;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 25px;
+}	
+.c2
+{
+	align-content:center;
+	margin: 3px; 
+	border: thin;
+	background-color:transparent; 
+	text-align: "left", "justify-all";
+	width: 87%;
+}
+.c21
+{
+	padding: 4px;
+	margin: 2px;
+	background-color: orange;
+	border: groove;
+	border-color: red;
+	text-align: justify;
+	position: inherit;
+	width: 59%;
+	height: 25%;
+	border-radius: 5px;
+}
+.c21 h1
+{
+	text-align: right; 
+	padding: 3px;
+	color: black;
+}
+.c21 pre
+{
+	text-align: "justify","center";
+	font-display: block;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 15px;
+	color: whitesmoke;
+}
+	
+.c22
+{
+	padding: 4px;
+	margin: 2px;
+	background-color: orange;
+	border: groove;
+	border-color: red;
+	text-align: justify;
+	position: inherit;
+	width: 59%;
+	height: 25%;
+	border-radius: 5px; 
+}
+.c22 h1
+{
+	text-align: right;
+	padding: 3px;
+	color: black;
+}
+.c22 pre
+{
+	text-align: "justify","center";
+	font-display: block;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 15px;
+	color: whitesmoke;
+}
+	
+.c23
+{
+	padding: 4px;
+	margin: 2px;
+	background-color: orange;
+	border: groove;
+	border-color: red;
+	text-align: justify;
+	position: inherit;
+	width: 59%;
+	height: 25%;
+	border-radius: 5px;
+}
+.c23 h1
+{
+	text-align: right; 
+	padding: 3px; 
+	color: black;
+}
+.c23 pre
+{
+	text-align: "justify","center"; font-display: block;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 15px;
+	color: whitesmoke;
+}	
